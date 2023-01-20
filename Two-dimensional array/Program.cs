@@ -1,5 +1,5 @@
 ﻿
-int number;
+
 int sum = 0;
 int[,] arr = new int[3, 3]
 {
