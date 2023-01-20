@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrah\\source\\repos\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj": {}
+    "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrah\\source\\repos\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj": {
+    "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah\\source\\repos\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj",
         "projectName": "Two-dimensional array",
-        "projectPath": "C:\\Users\\ibrah\\source\\repos\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj",
+        "projectPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Two-dimensional array\\Two-dimensional array\\Two-dimensional array.csproj",
         "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah\\source\\repos\\Two-dimensional array\\Two-dimensional array\\obj\\",
+        "outputPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Two-dimensional array\\Two-dimensional array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
